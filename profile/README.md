@@ -52,9 +52,6 @@ Whether you’re preparing videos for mobile devices, compressing for sharing, o
 ![Ephnic Video Converter Screenshot](https://static.macupdate.com/screenshots/253877/m/ephnic-video-converter-screenshot.png)  
 *Main interface with video conversion options.*  
 
-![Ephnic Editing](https://static.macupdate.com/screenshots/268115/m/ephnic-movie-maker-screenshot.png)  
-*Editing tools before conversion.*  
-
 ---
 
 ## 🖥️ Desktop vs Web Version  
